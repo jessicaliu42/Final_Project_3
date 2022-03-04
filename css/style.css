@@ -1,3 +1,20 @@
 .nav-style{
     background-color:  #F69240 !important;
 }
+.fb_icons img{
+    height: 30px;
+    width: 30px;
+}
+.ig_cons img{
+    height: 30px;
+    width: 30px;
+}
+.footer-style{
+    background-image: url(/assets/Pet\ background\ Peachfooter-bg.png);
+    background-size:cover;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+}

@@ -12,6 +12,7 @@
 .footer-style{
     background-image: url(/assets/Pet\ background\ Peachfooter-bg.png);
     background-size:cover;
+    width: 100%;
 }
 .logo{
     height: 60px;

@@ -10,12 +10,16 @@
     width: 30px;
 }
 .footer-style{
-    background-image: url(assets/Pet\ background\ Peachfooter-bg.png);
+    background-image: url("/assets/PetbgPeachfooter-bg.png");
     background-size:cover;
     width: 100%;
+    color: white;
 }
 .logo{
     height: 60px;
     width: 60px;
     margin: 10px;
+}
+.nav-link{
+    color:white;
 }

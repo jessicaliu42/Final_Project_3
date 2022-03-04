@@ -10,7 +10,7 @@
     width: 30px;
 }
 .footer-style{
-    background-image: url("/assets/PetbgPeachfooter-bg.png");
+    background-image: url("../assets/PetbgPeachfooter-bg.png");
     background-size:cover;
     width: 100%;
     color: white;

@@ -19,10 +19,19 @@
     width: 100%;
     color: white;
 }
-.logo{
+.navbar-brand{
+    background-image: url(../assets/Property\ 1=Defaultlogo.png);
     height: 60px;
     width: 60px;
     margin: 10px;
+    background-size: 60px 60px;
+}
+.navbar-brand:hover{
+    background-image: url(../assets/logohover.png);
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+    z-index: 1;
 }
 .nav-link{
     color:white;

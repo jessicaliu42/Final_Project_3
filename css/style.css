@@ -5,6 +5,9 @@
     font-weight: bold;
     font-size: 18px;
 }
+.navbar-nav{
+    width: 75%;
+}
 .fb_icons img{
     height: 30px;
     width: 30px;

@@ -99,3 +99,18 @@ button, input[type="submit"], input[type="reset"] {
     font-weight: bold;
     color:#71A557;
 }
+.logoCol{
+    margin: 30px 0px 30px 0px;
+}
+.welcomeCol{
+    font-family: rockwell;
+    font-weight: bold;
+    margin: auto;
+}
+.welcomeTo{
+    color: #71A557;
+}
+.RMGname{
+    font-size: 3rem;
+    color: #4E4D4D;
+}

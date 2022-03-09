@@ -82,7 +82,7 @@ button, input[type="submit"], input[type="reset"] {
 }
 .filter{
     text-align: center;
-    margin: 20px;
+  margin: 20px 0px 20px 0px;
     width: 100%;
 }
 .filter button{
@@ -91,6 +91,11 @@ button, input[type="submit"], input[type="reset"] {
     width: 150px;
     margin: 0px 20px 0px 20px;
     border-radius: 5px;
+    padding: 5px;
+}
+.filter button:hover{
+    color:#F69240;
+    border-color: #F69240;
 }
 .petInfo{
     padding: 20px;
@@ -101,7 +106,9 @@ button, input[type="submit"], input[type="reset"] {
     width: 100px;
     margin: 0px 10px 0px 10px;
     border-radius: 5px;
+    padding: 5px;
 }
+
 .availablePeth1{
     text-align: center;
     font-family: rockwell;

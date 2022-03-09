@@ -5,6 +5,9 @@
     font-weight: bold;
     font-size: 18px;
 }
+.container{
+    max-width: 1200px;
+}
 p{
     font-family: Helvetica;
     font-size: 18px;
@@ -86,7 +89,7 @@ button, input[type="submit"], input[type="reset"] {
     border: 1px grey;
     border-style: solid;
     width: 150px;
-    margin: 0px 40px 0px 20px;
+    margin: 0px 20px 0px 20px;
     border-radius: 5px;
 }
 .petInfo{
@@ -96,7 +99,7 @@ button, input[type="submit"], input[type="reset"] {
     border: 1px grey;
     border-style: solid;
     width: 100px;
-    margin: 0px 20px 0px 20px;
+    margin: 0px 10px 0px 10px;
     border-radius: 5px;
 }
 .availablePeth1{

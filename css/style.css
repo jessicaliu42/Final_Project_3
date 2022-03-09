@@ -32,15 +32,16 @@ p{
 .navbar-brand{
     background-image: url(../assets/RMG_Logo_Tag_Orange.png);
     height: 60px;
-    width: 60px;
+    width: 120px;
     margin: 10px;
-    background-size: 60px 60px;
+    background-size: 120px 60px;
 }
 .navbar-brand:hover{
     background-image: url(../assets/RMG_LOGO_Tag_Grey.png);
     height: 60px;
-    width: 60px;
+    width: 120px;
     margin: 10px;
+    background-size: 120px 60px;
     z-index: 1;
 }
 .nav-link{

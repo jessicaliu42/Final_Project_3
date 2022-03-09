@@ -5,6 +5,9 @@
     font-weight: bold;
     font-size: 18px;
 }
+p{
+    font-family: Helvetica;
+}
 .navbar-nav{
     width: 75%;
 }
@@ -21,13 +24,13 @@
     padding-left: 1rem !important;
 }
 .footer-style{
-    background-image: url(../assets/PetbgPeachfooter-bg.png);
+    background-image: url(../assets/RMG_Logo_Tag_Orange.png);
     background-size:cover;
     width: 100%;
     color: white;
 }
 .navbar-brand{
-    background-image: url(../assets/Property\ 1=Defaultlogo.png);
+    background-image: url(../assets/RMG_LOGO_Tag_Grey.png);
     height: 60px;
     width: 60px;
     margin: 10px;
@@ -113,4 +116,8 @@ button, input[type="submit"], input[type="reset"] {
 .RMGname{
     font-size: 3rem;
     color: #4E4D4D;
+}
+.quote{
+    font-family: rockwell;
+
 }

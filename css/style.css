@@ -65,7 +65,7 @@ p{
 }
 .donateIcon{
     position: fixed;
-    right: 60px;
+    right: 10px;
 }
 
 button, input[type="submit"], input[type="reset"] {
@@ -86,7 +86,7 @@ button, input[type="submit"], input[type="reset"] {
     border: 1px grey;
     border-style: solid;
     width: 150px;
-    margin: 0px 20px 0px 20px;
+    margin: 0px 40px 0px 20px;
     border-radius: 5px;
 }
 .petInfo{

@@ -24,20 +24,20 @@ p{
     padding-left: 1rem !important;
 }
 .footer-style{
-    background-image: url(../assets/RMG_Logo_Tag_Orange.png);
+    background-image: url(../assets/PetbgPeachfooter-bg.png);
     background-size:cover;
     width: 100%;
     color: white;
 }
 .navbar-brand{
-    background-image: url(../assets/RMG_LOGO_Tag_Grey.png);
+    background-image: url(../assets/RMG_Logo_Tag_Orange.png);
     height: 60px;
     width: 60px;
     margin: 10px;
     background-size: 60px 60px;
 }
 .navbar-brand:hover{
-    background-image: url(../assets/logohover.png);
+    background-image: url(../assets/RMG_LOGO_Tag_Grey.png);
     height: 60px;
     width: 60px;
     margin: 10px;
@@ -119,5 +119,5 @@ button, input[type="submit"], input[type="reset"] {
 }
 .quote{
     font-family: rockwell;
-
+    
 }

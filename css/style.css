@@ -74,6 +74,7 @@ button, input[type="submit"], input[type="reset"] {
 .filter{
     text-align: center;
     margin: 20px;
+    width: 100%;
 }
 .filter button{
     border: 1px grey;
@@ -81,4 +82,20 @@ button, input[type="submit"], input[type="reset"] {
     width: 150px;
     margin: 0px 20px 0px 20px;
     border-radius: 5px;
+}
+.petInfo{
+    padding: 20px;
+}
+.petInfo button{
+    border: 1px grey;
+    border-style: solid;
+    width: 100px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 5px;
+}
+.availablePeth1{
+    text-align: center;
+    font-family: rockwell;
+    font-weight: bold;
+    color:#71A557;
 }

@@ -71,3 +71,10 @@ button, input[type="submit"], input[type="reset"] {
 	cursor: pointer;
 	outline: inherit;
 }
+.filter button{
+    border: 1px grey;
+    border-style: solid;
+    width: 100px;
+    margin: 0px 20px 0px 20px;
+    border-radius: 5px;
+}

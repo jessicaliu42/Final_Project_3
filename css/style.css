@@ -15,6 +15,10 @@ p{
 .navbar-nav{
     width: 90%;
 }
+.navbar-toggler-icon img{
+    width: 30px !important;
+    height: 30px !important;
+}
 .fb_icons img{
     height: 30px;
     width: 30px;

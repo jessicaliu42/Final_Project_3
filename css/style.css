@@ -13,7 +13,7 @@ p{
     font-size: 18px;
 }
 .navbar-nav{
-    width: 75%;
+    width: 90%;
 }
 .fb_icons img{
     height: 30px;
@@ -65,6 +65,7 @@ p{
 }
 .dropdown-item{
     padding: 0.8rem 1rem !important;
+    
 }
 .dropdown-item:hover{
     color:white;

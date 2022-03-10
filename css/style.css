@@ -108,7 +108,17 @@ button, input[type="submit"], input[type="reset"] {
     border-radius: 5px;
     padding: 5px;
 }
-
+.petInfo p{
+    font-size: 14px;
+}
+.petInfo h5{
+    margin-top:10px;
+    margin-bottom: 0px;
+}
+.petInfo a{
+    color: #71A557;
+    font-style: italic;
+}
 .availablePeth1{
     text-align: center;
     font-family: rockwell;
@@ -138,4 +148,26 @@ button, input[type="submit"], input[type="reset"] {
 }
 .intro{
     padding-right: 20px;
+}
+.pagination_all{
+    margin: 40px;
+}
+.pagination{
+    justify-content: center;
+}
+.page-item{
+    border-color:#71A557 !important;
+}
+.page-link{
+    color: #71A557 !important;
+}
+.adopt{
+    color:#275E37;
+    border: 2px #275E37 !important;
+    border-style: solid !important;
+}
+.foster{
+    color:#71A557;
+    border: 2px #71A557 !important;
+    border-style: solid !important;
 }

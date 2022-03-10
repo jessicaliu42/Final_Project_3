@@ -61,10 +61,14 @@ p{
     border:0px !important;
     border-radius: 0px !important;
     text-align: center !important;
-    padding: 0.8rem 0 !important;
+    padding: 0 !important;
 }
 .dropdown-item{
     padding: 0.8rem 1rem !important;
+}
+.dropdown-item:hover{
+    color:white;
+    background-color:#275E37;
 }
 .donateIcon{
     position: fixed;
